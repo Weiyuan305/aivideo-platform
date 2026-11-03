@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791805101116,
+      "tag": "0000_melted_sharon_ventura",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791869030856,
+      "tag": "0001_careful_killraven",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791869849599,
+      "tag": "0002_ancient_marauders",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791870549519,
+      "tag": "0003_rainy_lizard",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792032496132,
+      "tag": "0004_nasty_mordo",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792032730920,
+      "tag": "0005_steady_punisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1792051800417,
+      "tag": "0006_violet_bloodaxe",
+      "breakpoints": true
+    }
+  ]
+}

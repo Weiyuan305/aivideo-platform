@@ -1,0 +1,18 @@
+[Unit]
+Description=AIvideo monitoring and backups
+After=network.target
+
+[Service]
+Type=simple
+User=aivideo
+Group=aivideo
+WorkingDirectory=/opt/aivideo/platform
+EnvironmentFile=/etc/aivideo/platform.env
+ExecStart=/usr/bin/node --import tsx scripts/ops.mts monitor
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=60
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target

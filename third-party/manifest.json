@@ -1,0 +1,622 @@
+[
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/alibabaModels.js",
+    "target": "packages/studio-ui/src/alibabaModels.js",
+    "license": "MIT",
+    "upstream_sha256": "3e9c5aa29c4c6cbd1421e7daa86759857ac1ccb7f8275f96e93402494365c88e",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "3e9c5aa29c4c6cbd1421e7daa86759857ac1ccb7f8275f96e93402494365c88e"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/alibabaParameters.js",
+    "target": "packages/studio-ui/src/alibabaParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "2f21e136296f90e4c26bd29dc6a09270e5760ff5f29569be58c005cdfad27282",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "2f21e136296f90e4c26bd29dc6a09270e5760ff5f29569be58c005cdfad27282"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/AudioStudio.jsx",
+    "target": "packages/studio-ui/src/components/AudioStudio.jsx",
+    "license": "MIT",
+    "upstream_sha256": "8204cea60dc614a3cecd4f9e8c5f4e94e421e25eb6b330a4a35b65576d56d32e",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "67d7241153ee39947a0c795003e9d2a87437463639d3afb513a1604049b61a4d"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/DrawModal.jsx",
+    "target": "packages/studio-ui/src/components/DrawModal.jsx",
+    "license": "MIT",
+    "upstream_sha256": "bb252f73ffa526efddd82666c29b39783337bd93953fd6ed0e9e6416d20b796e",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "0eeb2c48b721405f4b3b786ac1023c43a8a9242c8ff7dce68c7cc67e588ef20c"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/ImageStudio.jsx",
+    "target": "packages/studio-ui/src/components/ImageStudio.jsx",
+    "license": "MIT",
+    "upstream_sha256": "7473ce4adeeb47eb4b87634267ddb1f0a40bf7d4bb464c017c11a1b5d70435f9",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "c480a676d4016fa421348e652a2f31df91876e763c490a5b061babca0ffa79ee"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/MobileGenerationActions.jsx",
+    "target": "packages/studio-ui/src/components/MobileGenerationActions.jsx",
+    "license": "MIT",
+    "upstream_sha256": "e0a638e877a5b64719de07f3a937e21539443345dc7971ee13ac741d3dd69513",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "e0a638e877a5b64719de07f3a937e21539443345dc7971ee13ac741d3dd69513"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/ModelParameterControls.jsx",
+    "target": "packages/studio-ui/src/components/ModelParameterControls.jsx",
+    "license": "MIT",
+    "upstream_sha256": "3516f2e397d6628409ce14942cef04cc85ad0061dabcf75e5c4b69e7a80ffb35",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "3516f2e397d6628409ce14942cef04cc85ad0061dabcf75e5c4b69e7a80ffb35"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/VideoModelControls.jsx",
+    "target": "packages/studio-ui/src/components/VideoModelControls.jsx",
+    "license": "MIT",
+    "upstream_sha256": "26265fca3cabc8968785f27066dac0c616d9bd3225c3f1ca63c3722dc6ec8069",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "26265fca3cabc8968785f27066dac0c616d9bd3225c3f1ca63c3722dc6ec8069"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/VideoStudio.jsx",
+    "target": "packages/studio-ui/src/components/VideoStudio.jsx",
+    "license": "MIT",
+    "upstream_sha256": "23dd0d48adc559c7e5785f489df459a78310d3ec37831ee8ae378e4424ab0241",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "722f394d58c1752a15652575f09b627ed4691fb47fe0b7bb95628af1f016c73d"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/prompt/PromptComposer.jsx",
+    "target": "packages/studio-ui/src/components/prompt/PromptComposer.jsx",
+    "license": "MIT",
+    "upstream_sha256": "38fa98192f16a81e9850bc9c43ae02424fe9524a19d1199747ce176d5fb799be",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "ba25d8f0b6f9b3840194ec6533e75d3ac8a72cb71bcbcd2d3740078c8e7eda8e"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/components/prompt/usePromptMenu.js",
+    "target": "packages/studio-ui/src/components/prompt/usePromptMenu.js",
+    "license": "MIT",
+    "upstream_sha256": "1750e1814993aea3d5e4c572169985ef4f627f2d4e63980f5684a832d994fe45",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "1750e1814993aea3d5e4c572169985ef4f627f2d4e63980f5684a832d994fe45"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/groupedVideoModels.js",
+    "target": "packages/studio-ui/src/groupedVideoModels.js",
+    "license": "MIT",
+    "upstream_sha256": "92bdb15d0c5da89371f57aa0fc81d2c15d4098d65b874a58f79dd22a482b7d33",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "92bdb15d0c5da89371f57aa0fc81d2c15d4098d65b874a58f79dd22a482b7d33"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/groupedVideoParameters.js",
+    "target": "packages/studio-ui/src/groupedVideoParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "b93c6d58af723cc1d5e8ea895d2a2f82576647ad6ac9ce87761db20f6ac4f942",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "b93c6d58af723cc1d5e8ea895d2a2f82576647ad6ac9ce87761db20f6ac4f942"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/groupedVideoRegistry.js",
+    "target": "packages/studio-ui/src/groupedVideoRegistry.js",
+    "license": "MIT",
+    "upstream_sha256": "c764cb1982b9683292e2a2f1972e74658e60f166e486c39cb9e9a4aaf409ee67",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "c764cb1982b9683292e2a2f1972e74658e60f166e486c39cb9e9a4aaf409ee67"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/happyHorseModels.js",
+    "target": "packages/studio-ui/src/happyHorseModels.js",
+    "license": "MIT",
+    "upstream_sha256": "f6fd86e21a2d631d1c3d54a7fbc301ab9da7c7ea35592f33c580d16e6010deab",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "f6fd86e21a2d631d1c3d54a7fbc301ab9da7c7ea35592f33c580d16e6010deab"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/happyHorseParameters.js",
+    "target": "packages/studio-ui/src/happyHorseParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "e31940b5d16eeef62df11db1cde9cfe342f3c3ae6a0de9fb9895517016a001a4",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "e31940b5d16eeef62df11db1cde9cfe342f3c3ae6a0de9fb9895517016a001a4"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/i18nUtils.js",
+    "target": "packages/studio-ui/src/i18nUtils.js",
+    "license": "MIT",
+    "upstream_sha256": "8f61d41d3861c799d56e5951d6fa80dc0179b3a66e2b9719ede0cff054ad4ba5",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "8f61d41d3861c799d56e5951d6fa80dc0179b3a66e2b9719ede0cff054ad4ba5"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/klingModels.js",
+    "target": "packages/studio-ui/src/klingModels.js",
+    "license": "MIT",
+    "upstream_sha256": "1506ba4c105d2d14fe438ec39b37e3f0f69be46d186a85619f1489b0e879e601",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "1506ba4c105d2d14fe438ec39b37e3f0f69be46d186a85619f1489b0e879e601"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/klingParameters.js",
+    "target": "packages/studio-ui/src/klingParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "4d4595dfd656e968b0839a0eaea87479cdebc4d2ec4e38a1faa30768993f283a",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "4d4595dfd656e968b0839a0eaea87479cdebc4d2ec4e38a1faa30768993f283a"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/ltxModels.js",
+    "target": "packages/studio-ui/src/ltxModels.js",
+    "license": "MIT",
+    "upstream_sha256": "6ff6a149e806e0b6ed85abb02ce3bb7867392cd6d17845eaa6599541ae12c55f",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "6ff6a149e806e0b6ed85abb02ce3bb7867392cd6d17845eaa6599541ae12c55f"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/ltxParameters.js",
+    "target": "packages/studio-ui/src/ltxParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "e1321dfe5095cec9e474b6595587e9ac6c6e40b75d18ed0d97fd4a31c2c1dd7f",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "e1321dfe5095cec9e474b6595587e9ac6c6e40b75d18ed0d97fd4a31c2c1dd7f"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/messages/en/audioStudio.json",
+    "target": "packages/studio-ui/src/messages/en/audioStudio.json",
+    "license": "MIT",
+    "upstream_sha256": "91825fc3d39e9aa039e11da51e06b07ab9cc05065648bf4ba8f8ed4b28d74025",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "91825fc3d39e9aa039e11da51e06b07ab9cc05065648bf4ba8f8ed4b28d74025"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/messages/en/imageStudio.json",
+    "target": "packages/studio-ui/src/messages/en/imageStudio.json",
+    "license": "MIT",
+    "upstream_sha256": "9bf326092e2a60a92071cd782a0ca9c7f48bcd65c48960d147332392016ea3db",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "eeea77bb660d7281ded32663f1f15c8ad3666c86bd7133af0d79ee3ea5e96bb1"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/messages/en/videoStudio.json",
+    "target": "packages/studio-ui/src/messages/en/videoStudio.json",
+    "license": "MIT",
+    "upstream_sha256": "50b7d459851b147f4ff83fac08509bffa7bc8b379755f9b0b422aa4f62bbcc55",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "50b7d459851b147f4ff83fac08509bffa7bc8b379755f9b0b422aa4f62bbcc55"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/messages/zh/audioStudio.json",
+    "target": "packages/studio-ui/src/messages/zh/audioStudio.json",
+    "license": "MIT",
+    "upstream_sha256": "48cae5a0ac2d94a8893bd8939cdab625865de9951dddc616469cc7f88005f990",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "d978e0b005a28b552fc3720631808571e1498b95e70ea1a5674101744d6f309e"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/messages/zh/imageStudio.json",
+    "target": "packages/studio-ui/src/messages/zh/imageStudio.json",
+    "license": "MIT",
+    "upstream_sha256": "e83e7057681ccaa327c9ab6b8259e8d9570b374558116ab6206ae6f1cb65133a",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "b4e22a5e04f5013c86e1bb31f94f94a622f8b440ef8ecf70765a2b0f60c62ea8"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/messages/zh/videoStudio.json",
+    "target": "packages/studio-ui/src/messages/zh/videoStudio.json",
+    "license": "MIT",
+    "upstream_sha256": "5313c6f88d5da8ab6127613f4197868c9d4567d4fdb80b4e0ed0e7cebc360545",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "5313c6f88d5da8ab6127613f4197868c9d4567d4fdb80b4e0ed0e7cebc360545"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/minimaxModels.js",
+    "target": "packages/studio-ui/src/minimaxModels.js",
+    "license": "MIT",
+    "upstream_sha256": "f16d73c2f508e0e90f0b3d2113d1798b87bf7c37360730d31f86ce630c3228f7",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "f16d73c2f508e0e90f0b3d2113d1798b87bf7c37360730d31f86ce630c3228f7"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/minimaxParameters.js",
+    "target": "packages/studio-ui/src/minimaxParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "7d09fc5f61501982f2c7af07f11490ab26bca471c0d25c042e12c229ce93c4d2",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "7d09fc5f61501982f2c7af07f11490ab26bca471c0d25c042e12c229ce93c4d2"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/modelCapabilities.js",
+    "target": "packages/studio-ui/src/modelCapabilities.js",
+    "license": "MIT",
+    "upstream_sha256": "8f7a88cecff678ed50fc845cfd7b5582d2a03ec9bbe39007c8981432b1dbae44",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "8f7a88cecff678ed50fc845cfd7b5582d2a03ec9bbe39007c8981432b1dbae44"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/modelFamilies.js",
+    "target": "packages/studio-ui/src/modelFamilies.js",
+    "license": "MIT",
+    "upstream_sha256": "a09316784fec4c42140592cc725168b05ac0d5f0cb29d97b12c79cdde57de9c3",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "7969bb27c37bc0faf53d6a07c0194661a1df14473bec4bba460c291499302549"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/modelParameters.js",
+    "target": "packages/studio-ui/src/modelParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "1b7d7383a8c806cf74f4d7974ef916771f299903dbdf422cbabf7ec619aaa82e",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "1b7d7383a8c806cf74f4d7974ef916771f299903dbdf422cbabf7ec619aaa82e"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/nativeVideoParameters.js",
+    "target": "packages/studio-ui/src/nativeVideoParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "92402c187fb6e4c174bbdc36910c84d420cbd743ee2563109b2569365ec4b6bc",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "92402c187fb6e4c174bbdc36910c84d420cbd743ee2563109b2569365ec4b6bc"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/pixverseModels.js",
+    "target": "packages/studio-ui/src/pixverseModels.js",
+    "license": "MIT",
+    "upstream_sha256": "9298b824faa5d20d6368c716bdb5bc42991d476db63535fb9d3614db5aee9b23",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "9298b824faa5d20d6368c716bdb5bc42991d476db63535fb9d3614db5aee9b23"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/pixverseParameters.js",
+    "target": "packages/studio-ui/src/pixverseParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "35c9f4962a05a03894392ad4a545e24659cc99838cf0e407ccc449dd5ec34796",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "35c9f4962a05a03894392ad4a545e24659cc99838cf0e407ccc449dd5ec34796"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/seedanceModels.js",
+    "target": "packages/studio-ui/src/seedanceModels.js",
+    "license": "MIT",
+    "upstream_sha256": "449e433b705bf3ffcf15ece5a1dcdebdb7c67c1d1a547276e0ac5da795b257a0",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "449e433b705bf3ffcf15ece5a1dcdebdb7c67c1d1a547276e0ac5da795b257a0"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/seedanceParameters.js",
+    "target": "packages/studio-ui/src/seedanceParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "2576ee8a1a1157fcab5d517462d624607cfebe47bf5026894a896e4d00ead802",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "2576ee8a1a1157fcab5d517462d624607cfebe47bf5026894a896e4d00ead802"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/soraModels.js",
+    "target": "packages/studio-ui/src/soraModels.js",
+    "license": "MIT",
+    "upstream_sha256": "552fbc3a516a7fd8904ffe16f04ecbfb9872b0a181ec1f8d5185197e90367097",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "552fbc3a516a7fd8904ffe16f04ecbfb9872b0a181ec1f8d5185197e90367097"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/soraParameters.js",
+    "target": "packages/studio-ui/src/soraParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "177d908573f7cea36a7c7037c6fa402be5eb146927c10eaa95d427782eb35b7d",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "177d908573f7cea36a7c7037c6fa402be5eb146927c10eaa95d427782eb35b7d"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/utils/formatError.js",
+    "target": "packages/studio-ui/src/utils/formatError.js",
+    "license": "MIT",
+    "upstream_sha256": "5a15bf62abf6a59e0fb2abdc29f9841a99f580bf0497e76eeb18a1c4a2e58310",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "5a15bf62abf6a59e0fb2abdc29f9841a99f580bf0497e76eeb18a1c4a2e58310"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/veoModels.js",
+    "target": "packages/studio-ui/src/veoModels.js",
+    "license": "MIT",
+    "upstream_sha256": "b92b9150ba9a8d2f461880df56ac195ee510b328d6eab0f9036192f8143333ac",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "b92b9150ba9a8d2f461880df56ac195ee510b328d6eab0f9036192f8143333ac"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/veoParameters.js",
+    "target": "packages/studio-ui/src/veoParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "a99a6417e43999a8658cf004cd58255aca9c080b354e7b20a1b7aa84c2cb10fe",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "a99a6417e43999a8658cf004cd58255aca9c080b354e7b20a1b7aa84c2cb10fe"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/videoModelCopy.js",
+    "target": "packages/studio-ui/src/videoModelCopy.js",
+    "license": "MIT",
+    "upstream_sha256": "adf9045b4f8061a8f5863f5e331a1fd3b300fd33689a3ebca0e052247d520a41",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "adf9045b4f8061a8f5863f5e331a1fd3b300fd33689a3ebca0e052247d520a41"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/videoModelParameters.js",
+    "target": "packages/studio-ui/src/videoModelParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "da44cba4cbea8451e8f760b7b8a0a9d25acb89dcb3a5801df769b27fe7996ed6",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "da44cba4cbea8451e8f760b7b8a0a9d25acb89dcb3a5801df769b27fe7996ed6"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/videoToolCapabilities.js",
+    "target": "packages/studio-ui/src/videoToolCapabilities.js",
+    "license": "MIT",
+    "upstream_sha256": "6175b70d01f350c8a637427b2f8d00285a06a60d3d71835058018db182deb0ab",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "6175b70d01f350c8a637427b2f8d00285a06a60d3d71835058018db182deb0ab"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/videoWorkflows.js",
+    "target": "packages/studio-ui/src/videoWorkflows.js",
+    "license": "MIT",
+    "upstream_sha256": "c6bd22c5d2b04c14cb670d1a78c84282df140b5e2ed113cc1ab0ae1ad43f0890",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "c6bd22c5d2b04c14cb670d1a78c84282df140b5e2ed113cc1ab0ae1ad43f0890"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/viduModels.js",
+    "target": "packages/studio-ui/src/viduModels.js",
+    "license": "MIT",
+    "upstream_sha256": "1ba3602ae5e0bafec7fd21a2a2aa533cea09937b1874f493c9d565aa6c012692",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "1ba3602ae5e0bafec7fd21a2a2aa533cea09937b1874f493c9d565aa6c012692"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/viduParameters.js",
+    "target": "packages/studio-ui/src/viduParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "7d6ebf8e911c609fa6be3c4520f96f479e2671d154107f3ef9787c5b0411bfbd",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "7d6ebf8e911c609fa6be3c4520f96f479e2671d154107f3ef9787c5b0411bfbd"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/xaiModels.js",
+    "target": "packages/studio-ui/src/xaiModels.js",
+    "license": "MIT",
+    "upstream_sha256": "1d4c4111d4ec74b7380d5107d9c971f393284da916f152d8b6285db88bf8a47b",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "1d4c4111d4ec74b7380d5107d9c971f393284da916f152d8b6285db88bf8a47b"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "packages/studio/src/xaiParameters.js",
+    "target": "packages/studio-ui/src/xaiParameters.js",
+    "license": "MIT",
+    "upstream_sha256": "d94062876bbabee8b128ac9ebef2a061545179841eed938ad05840ebf89d6ef9",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "d94062876bbabee8b128ac9ebef2a061545179841eed938ad05840ebf89d6ef9"
+  },
+  {
+    "repository": "Anil-matcha/Open-Generative-AI",
+    "commit": "6b704b0806bf07b435586ff182fb54fffe64253f",
+    "upstream_path": "LICENSE",
+    "target": "third-party/licenses/Open-Generative-AI.txt",
+    "license": "MIT",
+    "upstream_sha256": "17cd23239df0ac94d279e0d4da4f2a34148346f9af3407b085b15772673522b6",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "17cd23239df0ac94d279e0d4da4f2a34148346f9af3407b085b15772673522b6"
+  },
+  {
+    "repository": "SamurAIGPT/Vibe-Workflow",
+    "commit": "121bde4ef0499ea000be98bdeaf1b244b928a8f3",
+    "upstream_path": "packages/workflow-builder/src/components/RenderField.jsx",
+    "target": "packages/workflow-ui/src/vendor/RenderField.jsx",
+    "license": "MIT",
+    "upstream_sha256": "a1579ace9da30fb888c82a789e0c4839ddbd17eca8e367920b1e498feda1eaae",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "28df5d26d2ebb6d5b6f77800728eb26c6cb925f4b613b3f31bc5bd01bd7daf56"
+  },
+  {
+    "repository": "SamurAIGPT/Vibe-Workflow",
+    "commit": "121bde4ef0499ea000be98bdeaf1b244b928a8f3",
+    "upstream_path": "packages/workflow-builder/src/components/NodeOptionsMenu.jsx",
+    "target": "packages/workflow-ui/src/vendor/NodeOptionsMenu.jsx",
+    "license": "MIT",
+    "upstream_sha256": "4c94ede9dd2fc81de065c242e642bd5f49443ef5ddb3d4d3c6d730298f352d74",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "be5f7c858821c566c11708b7e3822c210a081169ba77f65dcb660afcd7906d6b"
+  },
+  {
+    "repository": "SamurAIGPT/Vibe-Workflow",
+    "commit": "121bde4ef0499ea000be98bdeaf1b244b928a8f3",
+    "upstream_path": "packages/workflow-builder/src/components/AudioPlayer.jsx",
+    "target": "packages/workflow-ui/src/vendor/AudioPlayer.jsx",
+    "license": "MIT",
+    "upstream_sha256": "8ce25495a4377ef63a192599cebc712789794ebb60e7d2389f58ae0538f66a86",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "2b179bbfa3bcef93634175c591470507283bda174d31f6a84c9411d7e0b16b06"
+  },
+  {
+    "repository": "SamurAIGPT/Vibe-Workflow",
+    "commit": "121bde4ef0499ea000be98bdeaf1b244b928a8f3",
+    "upstream_path": "LICENSE",
+    "target": "third-party/licenses/Vibe-Workflow.txt",
+    "license": "MIT",
+    "upstream_sha256": "40614ffe768787e639121527fadcd9cb164d80403ae5c8c133bab2fcce42a6f2",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "40614ffe768787e639121527fadcd9cb164d80403ae5c8c133bab2fcce42a6f2"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "components/ui/button.tsx",
+    "target": "apps/web/components/ui/button.tsx",
+    "license": "MIT",
+    "upstream_sha256": "143e34fd720810645c915b22396d12e65ff677646d9357a6412a0987d092779a",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "74b12ce1fa4cefb6b5f2a2856e8dc7b825269b0c3c128fcf7ea41592b1c74cbd"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "components/ui/input.tsx",
+    "target": "apps/web/components/ui/input.tsx",
+    "license": "MIT",
+    "upstream_sha256": "7f6f9d8bae7b62e3a307580ab5306da8a819f01190d82c1629d029c8f00dec23",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "7175b447e6f5f2a37f827e494d833a07cdc1bc2342a6f47700a62d4398b2345b"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "components/ui/label.tsx",
+    "target": "apps/web/components/ui/label.tsx",
+    "license": "MIT",
+    "upstream_sha256": "d268d4052978dbf3690a19ddd6175c45cbea3cc406cabe40a71881880761e4d3",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "eebf6f3ad4de87489da1ca9d0f24a8aaf4d77a94f362db130721531e568600f7"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "components/ui/card.tsx",
+    "target": "apps/web/components/ui/card.tsx",
+    "license": "MIT",
+    "upstream_sha256": "1c273915b0629b21339c5ca564dc2140a0f0d6c8bbf768f5e4af3791e7e36ff3",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "8432207190e6fcf2325c1d0267873a04e1215dd11b44232098679f15f829de44"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "lib/utils.ts",
+    "target": "apps/web/lib/utils.ts",
+    "license": "MIT",
+    "upstream_sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "app/(dashboard)/dashboard/layout.tsx",
+    "target": "apps/web/components/workspace-shell.tsx",
+    "license": "MIT",
+    "upstream_sha256": "794b313540a302fa992c56b9a68bc1e179ebcd9c579f969b2b3549e18c4dbb7d",
+    "changes": "See third-party/notices.md; server workspace navigation, native modal mobile drawer and production projects navigation adapted locally.",
+    "local_sha256": "7f9f98a56b303318fec9d41a06db8de1eb329f35f346dd1fa8bb33c91935538e"
+  },
+  {
+    "repository": "nextjs/saas-starter",
+    "commit": "6e33e58b1e553a41fe22e6b941a7229a002de361",
+    "upstream_path": "LICENSE",
+    "target": "third-party/licenses/saas-starter.txt",
+    "license": "MIT",
+    "upstream_sha256": "20ea571df8e6868cf80e0c5262f535cc3d854f1416ae33f856f15544ebc65512",
+    "changes": "See third-party/notices.md; target may be adapted.",
+    "local_sha256": "20ea571df8e6868cf80e0c5262f535cc3d854f1416ae33f856f15544ebc65512"
+  }
+]

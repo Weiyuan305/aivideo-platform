@@ -1,0 +1,24 @@
+{
+  "name": "@aivideo/core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./local": "./src/local.ts",
+    "./pages": "./src/pages.ts",
+    "./asset-label": "./src/asset-label.ts",
+    "./workflow": "./src/workflow.ts",
+    "./tasks": "./src/tasks.ts",
+    "./execution": "./src/execution.ts",
+    "./task-client": "./src/task-client.ts",
+    "./workspace-client": "./src/workspace-client.ts",
+    "./task-views": "./src/task-views.ts",
+    "./refresh-loop": "./src/refresh-loop.ts",
+    "./media-reuse": "./src/media-reuse.ts",
+    "./task-media": "./src/task-media.ts",
+    "./production": "./src/production.ts",
+    "./timeline": "./src/timeline.ts"
+  },
+  "dependencies": {
+    "@aivideo/contracts": "workspace:*"
+  }
+}

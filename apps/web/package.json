@@ -1,0 +1,41 @@
+{
+  "name": "@aivideo/web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@aivideo/contracts": "workspace:*",
+    "@aivideo/core": "workspace:*",
+    "@aivideo/db": "workspace:*",
+    "@aivideo/providers": "workspace:*",
+    "@aivideo/server": "workspace:*",
+    "@aivideo/studio-ui": "workspace:*",
+    "@aivideo/workflow-ui": "workspace:*",
+    "@dnd-kit/core": "6.3.1",
+    "@dnd-kit/sortable": "10.0.0",
+    "@dnd-kit/utilities": "3.2.2",
+    "@radix-ui/react-slot": "^1.2.3",
+    "better-auth": "1.7.7",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "1.55.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-hot-toast": "2.6.1",
+    "server-only": "^0.0.1",
+    "tailwind-merge": "^3.3.0",
+    "wavesurfer.js": "^7.12.12"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3"
+  }
+}

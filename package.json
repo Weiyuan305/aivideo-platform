@@ -1,0 +1,45 @@
+{
+  "name": "aivideo-platform",
+  "private": true,
+  "packageManager": "pnpm@10.22.0",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @aivideo/web dev",
+    "build": "pnpm --filter @aivideo/web build",
+    "start": "pnpm --filter @aivideo/web start",
+    "typecheck": "pnpm --filter @aivideo/web typecheck && tsc -p tsconfig.server.json",
+    "lint": "pnpm verify:boundaries && pnpm typecheck",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "verify:boundaries": "node scripts/verify-boundaries.mjs",
+    "verify:sources": "node scripts/verify-sources.mjs",
+    "format:check": "prettier --check 'apps/web/**/*.{ts,tsx,css,json}' 'packages/{contracts,core,providers,db,server}/src/**/*.ts' packages/workflow-ui/src/editor.tsx 'tests/**/*.{ts,mts}' 'scripts/*.mts' '*.{json,ts,yaml}'",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "worker": "node --env-file-if-exists=apps/web/.env.local --import tsx scripts/worker.mts",
+    "ops": "node --env-file-if-exists=apps/web/.env.local --import tsx scripts/ops.mts monitor",
+    "ops:backup": "node --env-file-if-exists=apps/web/.env.local --import tsx scripts/ops.mts backup",
+    "ops:status": "node --env-file-if-exists=apps/web/.env.local --import tsx scripts/ops.mts status",
+    "ops:verify": "node --env-file-if-exists=apps/web/.env.local --import tsx scripts/ops.mts verify",
+    "ops:restore": "node --env-file-if-exists=apps/web/.env.local --import tsx scripts/ops.mts restore",
+    "test:server": "vitest run --config vitest.server.config.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0",
+    "@types/node": "^22.0.0",
+    "drizzle-kit": "^0.31.0",
+    "prettier": "3.6.2",
+    "typescript": "5.9.3",
+    "vitest": "3.2.4",
+    "tsx": "^4.23.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@tailwindcss/oxide",
+      "esbuild",
+      "sharp"
+    ]
+  }
+}

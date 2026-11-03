@@ -1,0 +1,20 @@
+{
+  "name": "@aivideo/studio-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ImageStudio": "./src/components/ImageStudio.jsx",
+    "./VideoStudio": "./src/components/VideoStudio.jsx",
+    "./AudioStudio": "./src/components/AudioStudio.jsx",
+    "./drafts": "./src/drafts.js"
+  },
+  "dependencies": {
+    "@aivideo/contracts": "workspace:*",
+    "@aivideo/core": "workspace:*",
+    "react-hot-toast": "2.6.1"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

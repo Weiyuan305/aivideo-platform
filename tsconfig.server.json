@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["esnext", "dom", "dom.iterable"],
+    "allowJs": true,
+    "checkJs": false,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "types": ["node"]
+  },
+  "include": [
+    "packages/server/src/**/*.ts",
+    "scripts/worker.mts",
+    "scripts/ops.mts",
+    "tests/server/**/*.ts",
+    "tests/server/**/*.mts"
+  ]
+}

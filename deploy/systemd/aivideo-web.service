@@ -1,0 +1,17 @@
+[Unit]
+Description=AIvideo Web
+After=network.target
+
+[Service]
+Type=simple
+User=aivideo
+Group=aivideo
+WorkingDirectory=/opt/aivideo/platform
+EnvironmentFile=/etc/aivideo/platform.env
+ExecStart=/usr/bin/node apps/web/node_modules/next/dist/bin/next start --hostname 127.0.0.1 --port 3000
+Restart=on-failure
+RestartSec=5
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target
